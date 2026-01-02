@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shaikhShaqib
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on MERN Stack Project.
 - 📫 How to reach me shaqibshaikh2000@gmail.com
 
 <!---
